@@ -48,4 +48,4 @@ st.write("Feel free to reach out to me for collaboration or job opportunities!")
 # Social Media Links
 st.markdown("[LinkedIn](https://www.linkedin.com/in/priyadarshee-kumar-32770a241/)")
 st.markdown("[GitHub](https://github.com/Kp-Cyber3721)")
-st.markdown("Email: priyadarsheekumar18@gmail.com")
+st.markdown("[Email] priyadarsheekumar18@gmail.com")
